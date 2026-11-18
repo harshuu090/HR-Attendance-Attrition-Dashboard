@@ -1,4 +1,4 @@
--- HR Attendance & Attrition Analysis (SQLite)
+-- HR Attendance & Attrition Analysis (MY SQL)
 -- Tables: employees(emp_id, name, department, gender, location, join_date, salary, status, exit_date)
 --         attendance(emp_id, month, working_days, present_days, leaves, late_marks)
 
