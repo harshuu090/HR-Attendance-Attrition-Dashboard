@@ -2,7 +2,7 @@
 
 # 📊 HR Attendance & Attrition Dashboard
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=HR+Analytics+Dashboard;Employee+Attendance+Analysis;Attrition+Insights+with+Power+BI;Excel+%7C+MySQL+%7C+Power+BI" alt="Animated Project Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=HR+Analytics+Dashboard;Employee+Attendance+Analysis;Attrition+Insights+with+Power+BI;Excel+%7C+MySQL+%7C+Power+BI" alt="HR Analytics Dashboard: Excel, MySQL, Power BI" />
 
 ### Employee Attendance & Attrition Insights
 
@@ -77,7 +77,7 @@ Contains attendance-related information such as:
 | Total Present Days | 15,225 |
 | Overall Attendance Rate | 88.63% |
 
-**Note:** This project uses practice data. Confirm that the data is synthetic before describing it as synthetic in your public repository.
+**Note:** This project uses practice data, not real employee records.
 
 ## 🛠️ Tools & Technologies
 
@@ -119,6 +119,10 @@ Compares attendance performance across departments.
 
 Summarizes important observations and provides recommendations for further HR investigation.
 
+## 🖼️ Dashboard Preview
+
+![HR Attendance & Attrition Dashboard]("E:\HR-Attendance-Attrition-Dashboard\screenshots\Dashboard.png")
+
 ## 🔍 Key Findings
 
 - **Overall attrition:** 26 out of 120 employees left the organization, representing approximately 21.67%.
@@ -151,13 +155,6 @@ These recommendations are intended to support further investigation rather than 
 6. Validated key dashboard figures against the source datasets.
 7. Summarized findings and potential HR actions.
 
-## 🖼️ Dashboard Preview
-
-Add a screenshot of your completed dashboard to the `screenshots` folder.
-
-Save the image as `dashboard.png`.
-
-![HR Attendance & Attrition Dashboard](screenshots/dashboard.png)
 
 ## 📁 Project Structure
 
@@ -173,8 +170,6 @@ HR-Attendance-Attrition-Dashboard/
 └── screenshots/
     └── dashboard.png
 ```
-
-*Use your actual filenames when uploading. Include the SQL file only if it exists and contains the queries used in this project.*
 
 ## 🚀 How to Explore the Project
 
