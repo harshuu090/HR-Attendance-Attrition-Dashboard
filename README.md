@@ -119,10 +119,6 @@ Compares attendance performance across departments.
 
 Summarizes important observations and provides recommendations for further HR investigation.
 
-## 🖼️ Dashboard Preview
-
-![HR Attendance & Attrition Dashboard]("E:\HR-Attendance-Attrition-Dashboard\screenshots\Dashboard.png")
-
 ## 🔍 Key Findings
 
 - **Overall attrition:** 26 out of 120 employees left the organization, representing approximately 21.67%.
